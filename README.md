@@ -1,5 +1,3 @@
----
-
 ### 🚀 Core Technologies
 
 **JavaScript Runtimes**
@@ -27,6 +25,3 @@
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
-
----
